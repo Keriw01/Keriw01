@@ -29,4 +29,4 @@
 - Website: https://www.stolhat.pl/
 
 #### 2022
-- Application: [Radio List](https://www.youtube.com)
+- Application: [Radio List [Flutter]](https://www.youtube.com)
