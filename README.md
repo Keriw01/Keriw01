@@ -1,4 +1,4 @@
-### 👋 Hi, I'm a student. 
+### 👋 Hi, I'm a student..
 # I'm eager to acquire new skills, create and implement my own projects.
 
 - 🌱 I’m currently learning everything 🤣
