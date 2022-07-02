@@ -9,13 +9,9 @@
 [![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-dark-mode-only)
 
-<br />
-<br />
-
----
-
 ### ⚙️ Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Flutter" width="26px" src="https://pub.dev/packages/pixelarticons.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
