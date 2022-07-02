@@ -8,7 +8,11 @@
 ### 🤙 Connect with me:
 [![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-dark-mode-only)
-&nbsp;&nbsp;
+
+<br />
+<br />
+
+---
 
 ### ⚙️ Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -19,7 +23,7 @@
 <br />
 <br />
 
---
+---
 
 ### 📐 Last completed projects:
 #### 2021 
