@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi, I'm a student. I'm eager to acquire new skills, create and implement my own projects.👋
+I love football, cycling, and occasional video games.
+###as
 
 <!--
-**Keriw01/Keriw01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
