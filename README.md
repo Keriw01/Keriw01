@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I love football, cycling, and occasional video games.
 
 ### Connect with me:
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sebastian-s%C5%82owik-b63518243#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sebastian-s%C5%82owik-b63518243#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-dark-mode-only)
 &nbsp;&nbsp;
