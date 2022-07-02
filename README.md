@@ -19,8 +19,6 @@
 <br />
 <br />
 
----
-
 ### 📐 Last completed projects:
 #### 2021 
 - Website: https://www.stolhat.pl/
