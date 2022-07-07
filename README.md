@@ -8,7 +8,9 @@
 ### 🤙 Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sebastian-słowik-b63518243#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sebastian-słowik-b63518243#gh-dark-mode-only)
-
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCElZC7rMNKOofvZRKuAqygw#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCElZC7rMNKOofvZRKuAqygwr#gh-dark-mode-only)
 ### ⚙️ Languages and Tools:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />
