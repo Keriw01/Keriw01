@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I love football, cycling, and occasional video games.
 
 ### 🤙 Connect with me:
-[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/sebastian-slowik-keriw#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](www.linkedin.com/in/sebastian-slowik-keriw)
+[![linkedin](./img/linkedin-dark.svg)](www.linkedin.com/in/sebastian-slowik-keriw)
 
 ### ⚙️ Languages and Tools:
 <img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
