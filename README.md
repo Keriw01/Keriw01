@@ -30,3 +30,6 @@
 
 #### 2022
 - Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
+
+#### 2023
+- Application: [Heart Rate Monitor [Flutter]] Soon
