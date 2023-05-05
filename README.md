@@ -26,7 +26,7 @@
 
 ### 📐 Last completed projects:
 #### 2021 
-- Website: https://www.stolhat.pl/
+- Website: [StolHat - meble na wymiar](https://www.stolhat.pl/)
 
 #### 2022
 - Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
