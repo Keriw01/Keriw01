@@ -32,4 +32,4 @@
 - Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
 
 #### 2023
-- Application: [Heart Rate Monitor [Flutter]] Soon
+- Application: [Heart Rate Monitor [Flutter]] (https://youtube.com/shorts/f07neMUNrXM?feature=share)
