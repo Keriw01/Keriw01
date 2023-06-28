@@ -34,3 +34,4 @@
 
 #### 2023
 - Application: [Heart Rate Monitor [Flutter]](https://youtu.be/TWxoSS6gZxw)
+               [Znajdź Chwilę [Flutter]](https://youtu.be/ox_RcrNh7iE)
