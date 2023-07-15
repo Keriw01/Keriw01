@@ -33,5 +33,5 @@
 - Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
 
 #### 2023
-- Application: <br />[Heart Rate Monitor [Flutter]](https://youtu.be/MCEM1EgiyKU) <br />
+- Applications: <br />[Heart Rate Monitor [Flutter]](https://youtu.be/MCEM1EgiyKU) <br />
 [Znajdź Chwilę [Flutter]](https://youtu.be/RCmGNqZiQ9A)
