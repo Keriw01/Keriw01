@@ -1,7 +1,7 @@
 # 👋 Hi, I'm a student.
 
 - 👨‍🎓 I'm eager to acquire new skills, create and implement my own projects.
-- 🥅 2023 Goals: Learn more about Flutter
+- 🥅 2024 Goals: The use of artificial intelligence in projects.
 
 ### 🤙 Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sebastian-słowik-b63518243#gh-light-mode-only)
@@ -26,12 +26,15 @@
 ---
 
 ### 📐 Last completed projects:
-#### 2021 
-- Website: [StolHat - meble na wymiar](https://www.stolhat.pl/)
-
-#### 2022
-- Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
+#### 2024
+- Application: [Audio Book [Flutter]]
 
 #### 2023
 - Applications: <br />[Heart Rate Monitor [Flutter]](https://youtu.be/MCEM1EgiyKU) <br />
 [Znajdź Chwilę [Flutter]](https://youtu.be/RCmGNqZiQ9A)
+
+#### 2022
+- Application: [Radio List [Flutter]](https://www.youtube.com/watch?v=EAESx8wGpKg&ab_channel=Keriw)
+
+#### 2021 
+- Website: [StolHat - meble na wymiar](https://www.stolhat.pl/)
